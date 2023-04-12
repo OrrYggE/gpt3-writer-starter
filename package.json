@@ -9,11 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
-    "eslint-plugin-react": "7.32.2", 
     "framer-motion": "^6.5.1",
     "next": "^13.3.0",
     "openai": "^3.2.1",
